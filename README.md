@@ -1,4 +1,6 @@
 OVERVIEW
+
+
 Our goal was to see if wages for the restaurant/hospitality industry are keeping up with inflation by way of CPI analysis, second is to see if grocery prices impact restaurant employment/wages, and third is to see if particular neighborhoods in Minneapolis have more restaurants than others and does this correlate with lake/pond area within those neighborhoods.
 SOURCE SELECTION & CURATION
 Datasets Selected
